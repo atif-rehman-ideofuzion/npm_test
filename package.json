@@ -1,0 +1,10 @@
+{
+  "name": "@npm_test/js",
+  "version": "1.0.0",
+  "description": "A test project",
+  "main": "index.js",
+  "repository": "https://github.com/atif-rehman-ideofuzion/npm_test.git",
+  "author": "Atif Rehman <atif.rehman@ideofuzion.com>",
+  "license": "MIT",
+  "private": false
+}
